@@ -64,7 +64,7 @@
 
 body {
 
-    animation-duration: 936ms;
+    animation-duration: calc(60000/ 120 * 2ms);
 
     animation-name: imganimation;
 
