@@ -1,0 +1,53 @@
+
+
+
+
+
+
+	@keyframes imganimation {
+    5% {
+		filter: drop-shadow(0 0 2rem #a6d2df);
+        transform: translateY(3px) ;
+    }
+    10% {
+		filter: drop-shadow(0 0 1rem #a6d2df);
+        transform: translateY(3px) ;
+    }
+
+	15% {
+		filter: drop-shadow(0 0 1rem #a6d2df);
+        transform: translateY(3px) ;
+    }
+    
+	25% {
+		filter: drop-shadow(0 0 1rem #a6d2df);
+        transform: translateY(3px) ;
+    }
+	50% {
+		filter: drop-shadow(0 0 1rem #a6d2df);
+        transform: translateY(3px) ;
+    }
+
+    to {
+		filter: drop-shadow(0 0 1rem #a6d2df);
+        transform: translateY(3px) ;
+    }
+}
+
+body {
+
+filter: drop-shadow(0 0 1rem #a6d2df);
+    animation-duration: calc(60000/ 128 *2ms);
+
+    animation-name: imganimation;
+
+    animation-timing-function: ease-in-out;
+
+    animation-iteration-count: infinite;
+}
+
+
+
+/* For the wardrobe */
+
+
