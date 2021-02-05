@@ -3,7 +3,7 @@ To show drops in your OBS.
 Add > Browser 
 in OBS
 
-Copy and Paste text from drops.css into the Custom CSS box
+Copy and Paste text from shopkeeper.css into the Custom CSS box
 
 Check Local File
 
