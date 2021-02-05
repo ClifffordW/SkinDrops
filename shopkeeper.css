@@ -1,0 +1,75 @@
+@keyframes imganimation {
+    0% {
+		background: url(https://i.imgur.com/op88dx6.png) no-repeat;
+
+    }
+    
+    5% {
+		background: url(https://i.imgur.com/fRYmvUr.png) no-repeat;
+
+    }
+
+
+    10% {
+		background: url(https://i.imgur.com/6Av4b8u.png) no-repeat;
+
+    }
+	15% {
+	background: url(https://i.imgur.com/fFk1Ok9.png) no-repeat;
+
+		
+         	
+    }
+	25% {
+
+         background: url(https://i.imgur.com/fFk1Ok9.png) no-repeat;
+    }
+    
+	50% {
+
+     background: url(https://i.imgur.com/fFk1Ok9.png) no-repeat;
+    		
+	}
+
+
+
+	55% {
+
+     
+    	background: url(https://i.imgur.com/fRYmvUr.png) no-repeat;	
+	}
+
+
+	60% {
+
+     
+    	background: url(https://i.imgur.com/op88dx6.png) no-repeat;
+	}
+
+	65% {
+
+     
+    	background: url(https://i.imgur.com/op88dx6.png) no-repeat;
+	}
+    to {
+
+
+		
+ 		background: url(https://i.imgur.com/op88dx6.png) no-repeat;
+
+    }
+}
+
+
+
+body {
+
+    animation-duration: 936ms;
+
+    animation-name: imganimation;
+
+
+    animation-iteration-count: infinite;
+
+
+}
