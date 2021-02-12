@@ -1,16 +1,22 @@
+
+
+
+
+
+
 @keyframes imganimation {
     0% {
-
+	filter: drop-shadow(0 0 0.25rem #a6d2df);
         transform: translateY(3px) ;
     }
 
 
 	50% {
-
+		filter: drop-shadow(0 0 0.55rem #a6d2df);
         transform: translateY(0px) ;
     }
     to {
-
+	filter: drop-shadow(0 0 0.25rem #a6d2df);
         transform: translateY(3px) ;
     }
 }
@@ -33,6 +39,8 @@ body {
 img 
 {
 
-filter: drop-shadow(0 0 0.75rem #a6d2df);
+filter: drop-shadow(0 0 0.25rem #a6d2df);
 
 }
+
+
