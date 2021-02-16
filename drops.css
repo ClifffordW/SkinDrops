@@ -35,4 +35,10 @@ body {
 
 
 
-
+.bg-hatmachine {
+  position: absolute;
+  left: 500px;
+  top: 120px;
+  width: 90px;
+  filter: drop-shadow(0 0 0.45rem #C0C0C0);
+}

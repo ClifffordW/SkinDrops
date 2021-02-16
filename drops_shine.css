@@ -36,3 +36,14 @@ img
 filter: drop-shadow(0 0 0.75rem #a6d2df);
 
 }
+
+
+
+
+
+.bg-hatmachine {
+  position: absolute;
+  left: 500px;
+  top: 120px;
+  width: 90px;
+}
