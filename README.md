@@ -1,3 +1,5 @@
+## How to use
+
 To show drops in your OBS.
 
 Add > Browser 
