@@ -24,10 +24,13 @@ and into the CSS custom box type following
 
 @import "pastehere"
 
+## Changing Glow Colours
 
-
-
-
+To change the glow colours for drops_glow and drops_glow_animated 
+Open the css file
+Change the last value in **filter: dropshadow** for example **#a6d2df** with any other hex colour you want.
+You can find list of HEX colours here
+https://htmlcolorcodes.com/
 
 
 ## Video Tutorial:
