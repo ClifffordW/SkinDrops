@@ -1,4 +1,4 @@
-# Order of the Skin Drops
+# Skin Drops and their Order
 
 ## Sideshow Collection
 ![alt text](https://i.imgur.com/BnxudlM.png)
