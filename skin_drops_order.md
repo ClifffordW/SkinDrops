@@ -3,7 +3,7 @@
 ## Sideshow Collection
 ![alt text](https://i.imgur.com/BnxudlM.png)
 
-## Crystaline Collection
+## Crystaline Collection (Current Ongoing Drops)
 ![alt text](https://i.imgur.com/7N8WGt3.png)
 
 ## Winter Collection
